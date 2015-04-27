@@ -61,6 +61,6 @@ plain sh.*
 Follow the same instructions as above, but add the -t flag to force the script to pull the testing release instead.
 
 ----
-bash install_script_ubuntu.sh -t
+sudo bash install_script_ubuntu.sh -t
 ----
 
